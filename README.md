@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in React state updates where directly modifying the state variable within setState does not trigger a re-render. The solution showcases the correct way to update state using functional updates.
